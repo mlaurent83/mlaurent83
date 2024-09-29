@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-💻 Full-Stack Web Developer
-📖 Studied Web Development at Le Wagon and Stanford's Code In Place
-💭 Currently learning React
+💻 Full-Stack Web Developer</br>
+📖 Studied Web Development at Le Wagon and Stanford's Code In Place</br>
+💭 Currently learning React</br>
