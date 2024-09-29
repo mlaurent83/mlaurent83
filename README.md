@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 💻 Full-Stack Web Developer
+:book: Studied Web Development at Le Wagon and Stanford's Code In Place
