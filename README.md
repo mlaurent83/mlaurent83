@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 💻 Full-Stack Web Developer</br>
 📖 Studied Web Development at Le Wagon and Stanford's Code In Place</br>
 💭 Currently learning React</br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mlaurent83)](https://github.com/anuraghazra/github-readme-stats)
